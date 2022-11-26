@@ -10,5 +10,5 @@ blog({
     { title: "GitHub", url: "https://github.com/beastOP" },
   ],
   background: "#fff",
-  middlewares: [ga("UA-91675022-1")],
+  middlewares: [ga("G-B3TRQLZPSX")],
 });
