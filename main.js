@@ -12,6 +12,6 @@ blog({
     { title: "GitHub", url: "https://github.com/beastOP" },
   ],
   background: "#fff",
-  middlewares: [ga("GTM-K64DJMT")],
+  middlewares: [ga("GTM-K64DJMT"), ga("G-B3TRQLZPSX")],
   favicon: "./op.jpeg",
 });
