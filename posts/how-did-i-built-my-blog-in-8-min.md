@@ -46,5 +46,5 @@ Sign-up on [Deno deploy](https://deno.com/deploy). Create a new project and link
 it to the `main.js` file on the _main branch_ of your repo and select the
 _automatic_ mode instead of _github action_ unless necessary. Click the **Link**
 button, and there you go. <br/> You have fully functional blog that runs on the
-edge. If you have a domain. Go to the **settings** and follow the instruction to
+edge. If you have a domain, go to the **settings** and follow the instruction to
 set it up.
