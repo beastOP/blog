@@ -5,10 +5,13 @@ blog({
   author: "Omkar Patil",
   avatar: "./op.jpeg",
   avatarClass: "rounded-full",
+  lang: "en",
+  dateStyle: "long",
   links: [
     { title: "Email", url: "mailto:omkarpatil290@gmail.com" },
     { title: "GitHub", url: "https://github.com/beastOP" },
   ],
   background: "#fff",
   middlewares: [ga("G-B3TRQLZPSX")],
+  favicon: "./op.jpeg",
 });
