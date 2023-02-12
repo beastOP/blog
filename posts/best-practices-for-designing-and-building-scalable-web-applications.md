@@ -1,6 +1,6 @@
 ---
 title: "Best practices for designing and building scalable web applications" 
-publish_date: 2022-02-13
+publish_date: 2023-02-13
 ---
 
 Designing and building scalable web applications is a crucial aspect of software development. A scalable web application can handle an increasing number of users, transactions, and data without slowing down or crashing. Here are some best practices to keep in mind when designing and building scalable web applications:
