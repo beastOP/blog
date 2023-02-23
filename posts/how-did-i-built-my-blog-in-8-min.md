@@ -1,5 +1,5 @@
 ---
-title: "How did I built this blog in 8 min?" 
+title: "How did I built this blog in 8 mins?" 
 publish_date: 2022-11-26
 ---
 
