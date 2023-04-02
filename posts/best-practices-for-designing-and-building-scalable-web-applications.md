@@ -1,5 +1,6 @@
 ---
-title: "Best practices for designing and building scalable web applications" 
+title: "Best practices for designing and building scalable web applications"
+description: "Learn the best practices for designing and building scalable web applications that can handle growth and high traffic volumes efficiently. Read more now!"
 publish_date: 2023-02-13
 ---
 
