@@ -3,7 +3,8 @@ import blog, { ga } from "https://deno.land/x/blog@0.5.0/blog.tsx";
 blog({
   title: "Omkar Patil",
   author: "Omkar Patil",
-  description: "Join the coding carnival with Omkar Patil - your go-to software guru!",
+  description:
+    "I am a self-taught developer with a strong passion for coding. Through personal projects and self-study, I have gained a deep understanding of programming languages, frameworks, and development tools. I am always striving to improve my skills and stay up to date with the latest technologies.",
   avatar: "./op.jpeg",
   avatarClass: "rounded-full",
   lang: "en",
