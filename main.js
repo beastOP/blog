@@ -11,6 +11,7 @@ blog({
   links: [
     { title: "Email", url: "mailto:omkarpatil290@gmail.com" },
     { title: "GitHub", url: "https://github.com/beastOP" },
+    { title: "Twitter", url: "https://twitter.com/x9theta" },
   ],
   background: "#fff",
   middlewares: [ga("UA-250211944-1")],
