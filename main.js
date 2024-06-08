@@ -1,4 +1,4 @@
-import blog, { ga } from "https://deno.land/x/blog@0.5.0/blog.tsx";
+import blog, { ga } from "https://deno.land/x/blog/blog.tsx";
 
 blog({
   title: "Omkar Patil",
